@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LunaOwwl
-- 👀 I am a Software Quality professional. I do Python and Robot Framework. Currently between work assignments. 
-- 🌱 I’m currently learning Web Development to widen my IT skills portfolio.
+- 👀 I am a Software Quality professional. I do Exploratory Testing and Test Automation. This is a space for my personal projects.
+- 🌱 I’m currently exploring what AI can help me with.
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I am a certified Life Coach / Happiness Coach
